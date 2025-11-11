@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# dsci-100-project - Personal Planning Stage
+Personal Planning Stage repository for DSCI-100
